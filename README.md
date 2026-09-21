@@ -1,61 +1,59 @@
 # Ripper Search
 
-Extensão Chrome para buscar assets no fórum [Ripper.Store](https://forum.ripper.store) enquanto você navega em lojas como Booth, Gumroad, itch.io e outras.
+Busque assets do [Ripper.Store](https://forum.ripper.store) direto do Chrome, enquanto você navega no Booth, Gumroad, itch.io e outras lojas.
 
-> **Este repositório contém apenas documentação e releases.** O código-fonte não é público.
+## Baixar e instalar
 
-## Funcionalidades
+### 1. Baixar
 
-- Busca automática pelo item da página atual
-- Separação entre posts com download (DL) e discussões
-- Pedidos LF (Looking For) com rastreamento e notificações
-- Downloads e histórico de buscas locais
-- Curtidas, data/hora e favoritos nos resultados
-- 6 idiomas: PT-BR, EN, JA, RU, FR, ZH
+👉 **[Clique aqui para baixar a versão mais recente](https://github.com/T1NG4/ripper-search/releases/latest)**
 
-## Instalação
+Baixe o arquivo `ripper-search-v1.0.0.zip` (ou a versão mais nova na página).
 
-1. Baixe o ZIP mais recente em [Releases](https://github.com/T1NG4/ripper-search/releases)
-2. Extraia a pasta do arquivo
-3. Abra `chrome://extensions`
-4. Ative **Modo do desenvolvedor**
-5. Clique em **Carregar sem compactação** e selecione a pasta extraída
-6. Abra uma loja suportada (ex.: Booth) e clique no ícone da extensão
+### 2. Extrair
 
-> Instalação manual exige o modo desenvolvedor. Para instalação sem aviso, use a Chrome Web Store (quando disponível).
+Clique com o botão direito no ZIP → **Extrair tudo**. Lembre onde salvou a pasta.
 
-## Requisitos
+### 3. Instalar no Chrome
 
-- Google Chrome (ou Chromium compatível com extensões MV3)
-- Conta logada em [forum.ripper.store](https://forum.ripper.store/login) para buscar, curtir e postar pedidos LF
+1. Abra o Chrome e digite na barra de endereço: `chrome://extensions`
+2. No canto superior direito, ative **Modo do desenvolvedor**
+3. Clique em **Carregar sem compactação**
+4. Selecione a **pasta extraída** do passo 2 (não o arquivo ZIP)
+5. Pronto! O ícone do Ripper Search aparece na barra do Chrome
 
-## Sites suportados
+### 4. Usar
 
-- Booth (`booth.pm`)
-- Gumroad
-- Jinxxy
-- Payhip
-- itch.io
-- BuiltByBit
-- Unity Asset Store
-- Etsy
+1. Entre na sua conta em [forum.ripper.store](https://forum.ripper.store/login)
+2. Abra um produto no Booth (ou outra loja suportada)
+3. Clique no ícone **Ripper Search** na barra do Chrome
 
-## Documentação
+---
 
-- [Guia do usuário (PT-BR)](documentation/GUIA-USUARIO.md)
-- [User guide (EN)](documentation/USER-GUIDE.md)
-- [Política de privacidade](https://t1ng4.github.io/ripper-search/privacy.html)
+## O que a extensão faz
 
-## Privacidade
+- **Busca** automaticamente o item da página no fórum
+- Mostra posts com **download (DL)** separados de discussões
+- **Pedidos LF** — publique e acompanhe pedidos Looking For
+- **Favoritos e notificações** quando surgir download novo
+- **Downloads** e **histórico** de buscas
+- **Curtir** posts e ver data/hora
+- Disponível em **6 idiomas** (incluindo português)
 
-A extensão não envia dados para servidores próprios. Veja a [política de privacidade](https://t1ng4.github.io/ripper-search/privacy.html).
+## Lojas compatíveis
 
-## Suporte
+Booth · Gumroad · Jinxxy · Payhip · itch.io · BuiltByBit · Unity Asset Store · Etsy
 
-Abra uma [issue](https://github.com/T1NG4/ripper-search/issues) para dúvidas de uso ou problemas na instalação.
+## Precisa de ajuda?
 
-## Direitos autorais
+📖 **[Guia completo de uso](GUIA.md)** — explica cada aba passo a passo
 
-Ripper Search — todos os direitos reservados. Uso e distribuição apenas conforme os releases oficiais deste repositório.
+❓ **[Problemas comuns (FAQ)](GUIA.md#faq)**
 
-Ripper Search é um projeto independente e não é afiliado oficial ao Ripper.Store.
+🔒 **[Política de privacidade](https://t1ng4.github.io/ripper-search/privacy.html)**
+
+💬 **Dúvidas ou bug?** [Abra uma mensagem aqui](https://github.com/T1NG4/ripper-search/issues/new)
+
+---
+
+Ripper Search é independente e não é afiliado oficial ao Ripper.Store.
