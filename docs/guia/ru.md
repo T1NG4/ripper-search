@@ -1,10 +1,10 @@
 # Руководство — Ripper Search
 
-[← Языки](GUIA.md) · [Установка](README.ru.md)
+[← Языки](README.md) · [Установка](../readme/ru.md)
 
 ## Перед началом
 
-1. [Установите расширение](README.ru.md#скачать-и-установить)
+1. [Установите расширение](../readme/ru.md#скачать-и-установить)
 2. Войдите на [forum.ripper.store](https://forum.ripper.store/login)
 3. Откройте товар на Booth (или другом поддерживаемом магазине)
 4. Нажмите иконку **Ripper Search** в Chrome

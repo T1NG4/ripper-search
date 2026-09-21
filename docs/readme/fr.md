@@ -1,6 +1,6 @@
 # Ripper Search
 
-[← Toutes les langues](README.md)
+[← Toutes les langues](../../README.md)
 
 Recherchez des assets sur le forum [Ripper.Store](https://forum.ripper.store) depuis Chrome, pendant que vous naviguez sur Booth, Gumroad, itch.io et d'autres boutiques.
 
@@ -48,7 +48,7 @@ Booth · Gumroad · Jinxxy · Payhip · itch.io · BuiltByBit · Unity Asset Sto
 
 ## Aide
 
-📖 **[Guide complet](GUIA.fr.md)** · ❓ **[FAQ](GUIA.fr.md#faq)** · 🔒 **[Confidentialité](docs/privacy.fr.html)**
+📖 **[Guide complet](../guia/fr.md)** · ❓ **[FAQ](../guia/fr.md#faq)** · 🔒 **[Confidentialité](../privacy/fr.html)**
 
 💬 [Signaler un problème](https://github.com/T1NG4/ripper-search/issues/new)
 

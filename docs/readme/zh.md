@@ -1,6 +1,6 @@
 # Ripper Search
 
-[← 所有语言](README.md)
+[← 所有语言](../../README.md)
 
 在浏览 Booth、Gumroad、itch.io 等商店时，通过 Chrome 在 [Ripper.Store](https://forum.ripper.store) 论坛搜索资源。
 
@@ -48,7 +48,7 @@ Booth · Gumroad · Jinxxy · Payhip · itch.io · BuiltByBit · Unity Asset Sto
 
 ## 帮助
 
-📖 **[完整指南](GUIA.zh.md)** · ❓ **[常见问题](GUIA.zh.md#faq)** · 🔒 **[隐私政策](docs/privacy.zh.html)**
+📖 **[完整指南](../guia/zh.md)** · ❓ **[常见问题](../guia/zh.md#faq)** · 🔒 **[隐私政策](../privacy/zh.html)**
 
 💬 [报告问题](https://github.com/T1NG4/ripper-search/issues/new)
 

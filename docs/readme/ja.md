@@ -1,6 +1,6 @@
 # Ripper Search
 
-[← 言語一覧](README.md)
+[← 言語一覧](../../README.md)
 
 Booth、Gumroad、itch.io などのストアを見ながら、Chrome から [Ripper.Store](https://forum.ripper.store) フォーラムでアセットを検索できます。
 
@@ -48,7 +48,7 @@ Booth · Gumroad · Jinxxy · Payhip · itch.io · BuiltByBit · Unity Asset Sto
 
 ## ヘルプ
 
-📖 **[使い方ガイド](GUIA.ja.md)** · ❓ **[FAQ](GUIA.ja.md#faq)** · 🔒 **[プライバシー](docs/privacy.ja.html)**
+📖 **[使い方ガイド](../guia/ja.md)** · ❓ **[FAQ](../guia/ja.md#faq)** · 🔒 **[プライバシー](../privacy/ja.html)**
 
 💬 [問題を報告](https://github.com/T1NG4/ripper-search/issues/new)
 

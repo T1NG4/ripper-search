@@ -1,10 +1,10 @@
 # User guide — Ripper Search
 
-[← Languages](GUIA.md) · [Install](README.en.md)
+[← Languages](README.md) · [Install](../readme/en.md)
 
 ## Before you start
 
-1. [Install the extension](README.en.md#download-and-install)
+1. [Install the extension](../readme/en.md#download-and-install)
 2. Log in at [forum.ripper.store](https://forum.ripper.store/login)
 3. Open a product on Booth (or another supported store)
 4. Click the **Ripper Search** icon in Chrome

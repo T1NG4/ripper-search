@@ -1,10 +1,10 @@
 # 使い方ガイド — Ripper Search
 
-[← 言語](GUIA.md) · [インストール](README.ja.md)
+[← 言語](README.md) · [インストール](../readme/ja.md)
 
 ## はじめに
 
-1. [拡張機能をインストール](README.ja.md#ダウンロードとインストール)
+1. [拡張機能をインストール](../readme/ja.md#ダウンロードとインストール)
 2. [forum.ripper.store](https://forum.ripper.store/login) にログイン
 3. Booth（または対応ストア）で商品ページを開く
 4. Chrome の **Ripper Search** アイコンをクリック

@@ -1,10 +1,10 @@
 # 使用指南 — Ripper Search
 
-[← 语言](GUIA.md) · [安装](README.zh.md)
+[← 语言](README.md) · [安装](../readme/zh.md)
 
 ## 开始前
 
-1. [安装扩展](README.zh.md#下载与安装)
+1. [安装扩展](../readme/zh.md#下载与安装)
 2. 登录 [forum.ripper.store](https://forum.ripper.store/login)
 3. 在 Booth（或其他支持的商店）打开商品页面
 4. 点击 Chrome 中的 **Ripper Search** 图标
