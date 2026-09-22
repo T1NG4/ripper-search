@@ -4,27 +4,16 @@
 
 Recherchez des assets sur le forum [Ripper.Store](https://forum.ripper.store) depuis Chrome, pendant que vous naviguez sur Booth, Gumroad, itch.io et d'autres boutiques.
 
-## Télécharger et installer
+## Installer
 
-### 1. Télécharger
+L'extension est distribuée **uniquement via le Chrome Web Store**.
 
-👉 **[Télécharger la dernière version](https://github.com/T1NG4/ripper-search/releases/latest)**
+1. Ouvrez le **[Chrome Web Store](https://chromewebstore.google.com/search/Ripper%20Search)** et cherchez **Ripper Search**
+2. Cliquez sur **Ajouter à Chrome**
+3. Confirmez l'installation
+4. L'icône Ripper Search apparaît dans la barre d'outils
 
-Téléchargez le fichier `ripper-search-v1.0.0.zip` (ou la version la plus récente).
-
-### 2. Extraire
-
-Clic droit sur le ZIP → **Extraire tout**. Notez où se trouve le dossier.
-
-### 3. Installer dans Chrome
-
-1. Ouvrez Chrome et allez à : `chrome://extensions`
-2. Activez le **Mode développeur** (en haut à droite)
-3. Cliquez sur **Charger l'extension non empaquetée**
-4. Sélectionnez le **dossier extrait** (pas le fichier ZIP)
-5. Terminé ! L'icône Ripper Search apparaît dans la barre
-
-### 4. Utiliser
+## Utiliser
 
 1. Connectez-vous sur [forum.ripper.store](https://forum.ripper.store/login)
 2. Ouvrez un produit sur Booth (ou une autre boutique supportée)

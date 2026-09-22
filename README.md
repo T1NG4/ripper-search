@@ -10,4 +10,4 @@
 
 📖 **[User guides](docs/guia/README.md)** · 🔒 **[Privacy](docs/privacy/)**
 
-👉 **[Download latest release](https://github.com/T1NG4/ripper-search/releases/latest)**
+👉 **[Install on Chrome Web Store](https://chromewebstore.google.com/search/Ripper%20Search)**

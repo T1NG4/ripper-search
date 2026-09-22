@@ -62,13 +62,9 @@
 
 受保护链接会在新标签页打开。部分网站需要人工验证。
 
-### 扩展未验证？
-
-从 ZIP 安装时属正常。请仅从 [官方 Releases](https://github.com/T1NG4/ripper-search/releases) 下载。
-
 ### 如何更新？
 
-下载新版本，在 `chrome://extensions` 移除旧版后重新安装。
+Chrome 网上应用店会自动更新。也可打开 `chrome://extensions` 点击 **更新**。
 
 ---
 

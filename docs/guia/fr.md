@@ -62,13 +62,9 @@ Elle passe d'abord par la **modération**. Vérifiez l'onglet **Demandes**.
 
 Les liens protégés s'ouvrent dans un nouvel onglet. Certains sites demandent une vérification humaine.
 
-### Extension non vérifiée ?
-
-Normal lors de l'installation via ZIP. Téléchargez uniquement depuis les [Releases officielles](https://github.com/T1NG4/ripper-search/releases).
-
 ### Comment mettre à jour ?
 
-Téléchargez la nouvelle version, supprimez l'ancienne dans `chrome://extensions` et réinstallez.
+Le Chrome Web Store met à jour automatiquement. Vous pouvez aussi ouvrir `chrome://extensions` et cliquer sur **Mettre à jour**.
 
 ---
 
